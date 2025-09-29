@@ -1,4 +1,1 @@
-uvicorn==0.37.0
 claude-agent-sdk==0.1.0 
-python-dotenv==1.1.1
-fastapi==0.118.0  
